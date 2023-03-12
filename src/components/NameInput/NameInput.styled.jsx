@@ -5,7 +5,7 @@ const FormEl = styled(Form)`
     display: flex;
     flex-direction: column;
     width: 300px;
-        outline: 2px solid black;
+        outline: 1px solid grey;
     padding: 10px;
 label {
     display: flex;
@@ -18,8 +18,9 @@ input {
 }
 button {
         width: 100px;
-    background-color: #5ca8f4;
+    background-color: #d4e5f6;
     border-radius: 5px;
+    border: none;
 }
 }`;
 

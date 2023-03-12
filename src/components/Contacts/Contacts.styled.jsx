@@ -4,7 +4,7 @@ const ContactsList = styled.ul`
   display: flex;
   flex-direction: column;
   width: 300px;
-  outline: 2px solid black;
+  outline: 1px solid grey;
   padding: 10px;
 `;
 const ContactEl = styled.li`
@@ -16,7 +16,8 @@ const ContactEl = styled.li`
   }
   button {
     width: 100px;
-    background-color: #5ca8f4;
+    background-color: #d4e5f6;
+    border: none;
     border-radius: 5px;
     height: 20px;
   }
