@@ -1,3 +1,5 @@
+// import PropTypes from 'prop-types';
+
 import { FilterInput } from './Filter.styled';
 export function Filter({ filter }) {
   return (

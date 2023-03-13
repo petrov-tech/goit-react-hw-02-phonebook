@@ -1,6 +1,6 @@
 import { Formik, Field } from 'formik';
 import PropTypes from 'prop-types';
-import swal from 'sweetalert2';
+import swal from 'sweetalert';
 
 import { FormEl } from './NameInput.styled';
 
